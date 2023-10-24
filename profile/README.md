@@ -1,6 +1,5 @@
 # Welcome to ReckonTech - Your Software Solutions Partner
 
-![ReckonTech Logo](https://your-logo-url-here.png)
 
 ## About Us
 
