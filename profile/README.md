@@ -1,20 +1,19 @@
-# Welcome to ReckonTech - Your Software Solutions Partner
+# Welcome to Appoox - Your Web Solutions Partner
 
 
 ## About Us
 
-ReckonTech is your go-to software solutions agency, specializing in a wide range of services including web development, mobile app development, desktop solutions, and database design. We are committed to delivering top-notch technology solutions to meet your unique business needs.
+Appoox is your go-to software solutions agency, specializing in a wide range of services including web development, API Development, Database Development, and UI/UX Design. We are committed to delivering top-notch technology solutions to meet your unique business needs.
 
 ## What We Do
 
 ### Web Solutions
 
-- Frontend development using technologies like React, Angular, and WordPress.
-- Backend development and API creation using Node.js and Spring.
+- Frontend development using technologies like React, NetxJS, Angular, and WordPress.
 
-### Mobile Solutions
+### API & Backend Development
 
-- Mobile app development with Flutter and Jetpack Compose.
+- API development using NodeJS and .NET.
 
 ### Database Solutions
 
@@ -24,9 +23,9 @@ ReckonTech is your go-to software solutions agency, specializing in a wide range
 
 Stay updated with our latest projects, news, and industry insights by following us on our social media platforms:
 
-- Instagram: [Follow us](https://www.instagram.com/reckon.tech/?igshid=MzRlODBiNWFlZA%3D%3D)
+- Instagram: [Follow us]([https://www.instagram.com/reckon.tech/?igshid=MzRlODBiNWFlZA%3D%3D](https://www.instagram.com/appoox.tech/))
 - Upwork: [Visit our Upwork Agency](https://www.upwork.com/agencies/1716485529502945280/)
-- LinkedIn: [Connect with us](https://www.linkedin.com/company/reckontechy)
+- Website: [Connect with us]([https://www.linkedin.com/company/reckontechy](https://appoox.com))
 
 ## Contact Information
 
