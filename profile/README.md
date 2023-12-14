@@ -31,7 +31,7 @@ Stay updated with our latest projects, news, and industry insights by following 
 
 Have questions or need assistance? Feel free to reach out to us:
 
-- Email: [reckontechco@gmail.com](mailto:reckontechco@gmail.com)
+- Email: [Info@Appoox.com](mailto:Info@Appoox.com)
 - Phone: [+46707240643](tel:+46707240643)
 
 We look forward to collaborating with you on your next project!
