@@ -23,9 +23,9 @@ Appoox is your go-to software solutions agency, specializing in a wide range of 
 
 Stay updated with our latest projects, news, and industry insights by following us on our social media platforms:
 
-- Instagram: [Follow us]([https://www.instagram.com/reckon.tech/?igshid=MzRlODBiNWFlZA%3D%3D](https://www.instagram.com/appoox.tech/))
+- Instagram: [Follow Us](https://www.instagram.com/appoox.tech/)
 - Upwork: [Visit our Upwork Agency](https://www.upwork.com/agencies/1716485529502945280/)
-- Website: [Connect with us]([https://www.linkedin.com/company/reckontechy](https://appoox.com))
+- Website: [Vist Our Website](https://appoox.com)
 
 ## Contact Information
 
