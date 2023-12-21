@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 Appoox is your go-to software solutions agency, specializing in a wide range of services including web development, API Development, Database Development, and UI/UX Design. We are committed to delivering top-notch technology solutions to meet your unique business needs.<br><br>What We Do:<br>1. Web Solutions<br>2. API & Backend Development<br>3. Database Solutions<br>4. AI Application<br>5. Blockchaain Development
 
 
